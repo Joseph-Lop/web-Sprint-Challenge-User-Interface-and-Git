@@ -1,0 +1,29 @@
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+	I would say that you have to think of semantic HTML as elements or tags that describe where 
+something will go on a webpage. For example <header> will be on the top/beginning of every web page without fail,
+while <footer> will be at the bottom of each webpage.
+
+
+Name two big differences between display: block; and display: inline;.
+
+	Block will make a line break before and elements while Inline doesn't make any line break whatsoever.
+Inline will only take up the neccessary amount of width while Block will take up all the width available to it.
+
+
+What are the 4 areas of the box model?
+
+	The border edge, the margin edge, the content edge and the padding edge.
+
+While using flexbox, what axis does the following property work on: align-items: center?
+
+Vertical axis.
+
+Explain why git is valuable to a team of developers.
+
+	Its vaulable because you have a whole history of changes/commits you as a developer did and to go back a refrence
+this is a huge plus with work flow. Also having an amazing feature to work collaboratively such as the ability to make branches
+helps making clean sleek product quality code, since the master branch goes untouched untill merges are approved. Which makes
+it amazing for a developer as they have copies they can tweak without the fear of compleletly obliterating the teams work. Git
+also has a huge community behind it so knowing Git will make it easier to get into the heart of a project when starting off with 
+a new job or team.
